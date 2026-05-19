@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Prompt engineer**
 
-- 🌱 I’m currently learning **Node.Js, Python, AI**
+- 🌱 I’m currently learning **Node.Js, TypeScripts, AI**
 
 - 👨‍💻 All of my projects are available at [https://mdmazharulislam.netlify.app/](https://mdmazharulislam.netlify.app/)
 
